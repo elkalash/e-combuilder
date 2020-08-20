@@ -2,7 +2,7 @@
   "name": "Ecombuilder",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://elkalash.github.io/e-combuilder",
+  "homepage": "https://elkalash.github.io/e-combuilder",
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.20",
